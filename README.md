@@ -95,7 +95,7 @@ Try inputs like:
 
 ## 👨‍💻 Author
 
-Shashank Agastya  
+Shashank C
 https://github.com/Shashank-agastya  
 
 ---

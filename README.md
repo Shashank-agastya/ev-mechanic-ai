@@ -60,7 +60,7 @@ Output:
 
 Add your output screenshot below:
 
-![Result](images/result.png)
+![Result](images_re.png)
 
 (Create an `images` folder in your repo and upload your screenshot as `result.png`)
 
